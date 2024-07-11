@@ -3,7 +3,7 @@ package email
 import (
 	"fmt"
 
-	"github.com/Kevinmajesta/depublic-backend/internal/entity"
+	"github.com/suryaapandi28/e-commerce/internal/entity"
 
 	"gopkg.in/gomail.v2"
 )
