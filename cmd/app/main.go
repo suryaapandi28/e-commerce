@@ -1,14 +1,14 @@
 package main
 
 import (
-	"github.com/Kevinmajesta/depublic-backend/configs"
-	"github.com/Kevinmajesta/depublic-backend/internal/builder"
-	"github.com/Kevinmajesta/depublic-backend/internal/entity"
-	"github.com/Kevinmajesta/depublic-backend/pkg/cache"
-	"github.com/Kevinmajesta/depublic-backend/pkg/encrypt"
-	"github.com/Kevinmajesta/depublic-backend/pkg/postgres"
-	"github.com/Kevinmajesta/depublic-backend/pkg/server"
-	"github.com/Kevinmajesta/depublic-backend/pkg/token"
+	"github.com/suryaapandi28/e-commerce/configs"
+	"github.com/suryaapandi28/e-commerce/internal/builder"
+	"github.com/suryaapandi28/e-commerce/internal/entity"
+	"github.com/suryaapandi28/e-commerce/pkg/cache"
+	"github.com/suryaapandi28/e-commerce/pkg/encrypt"
+	"github.com/suryaapandi28/e-commerce/pkg/postgres"
+	"github.com/suryaapandi28/e-commerce/pkg/server"
+	"github.com/suryaapandi28/e-commerce/pkg/token"
 )
 
 func main() {
